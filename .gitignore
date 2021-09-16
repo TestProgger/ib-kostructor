@@ -1,0 +1,7 @@
+**/node_modules/
+**/dist/
+**/dbs/
+**/logs/
+
+.env
+.env.test
